@@ -1,0 +1,4 @@
+ID,Historia,Criterios de aceptación,Estado
+HU01,"Como gestor de proyectos, quiero asignar personal según su disponibilidad, para evitar sobrecargas de trabajo.","El usuario está activo; el proyecto existe; las fechas son válidas; la dedicación total no supera la disponibilidad acordada.",Por hacer
+HU02,"Como responsable de Infraestructura y Recursos, quiero reservar equipos y licencias por proyecto y período, para evitar faltantes y reservas incompatibles.","No se reservan equipos en baja o mantenimiento; no se supera capacidad_uso; la licencia cubre el período; los errores no generan asignaciones parciales.",Por hacer
+HU03,"Como gerente de Tecnología, quiero consultar reportes de horas y recursos por proyecto, para detectar desvíos y tomar decisiones.","El reporte usa filtros de proyecto y período; las horas se obtienen desde las tareas; los totales coinciden con registros; se respetan permisos de acceso.",Por hacer
