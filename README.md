@@ -10,15 +10,15 @@ Documentación del Sistema de Gestión de Proyectos e Inventario de Recursos Té
 
 - `docs/proceso-bpmn.md`: participantes, pasos, decisiones y diagrama BPMN en Mermaid.
 - `backlog.csv`: historias de usuario y criterios de aceptación iniciales.
-- `TP4_Adriana_Rincon.docx`: informe editable a incorporar luego de revisión de la alumna.
+- `docs/TP4_Rincon_Adriana.pdf`: informe final consolidado del TPI, con TP1, TP2, TP3 y TP4.
 
 ## Flujo colaborativo
 
-La rama `main` conserva la versión integrada. Los cambios se preparan en ramas `docs/*` o `feat/*`, se registran con commits descriptivos y se proponen mediante Pull Request. El PR actual documenta esta primera integración. La revisión por pares y la aprobación humana deben ser realizadas por una compañera o compañero; no se dan por realizadas en este material.
+La rama `main` conserva la versión integrada. Los cambios se preparan en ramas `docs/*` o `feat/*`, se registran con commits descriptivos y se proponen mediante Pull Request. El PR #4 documentó la primera integración y fue aprobado mediante revisión por pares antes de incorporarse a `main`.
 
-## Tablero
+## Tablero ágil
 
-Las historias HU01-HU03 deben gestionarse en GitHub Projects (o Jira), con columnas Por hacer, En progreso y Listo. Los issues de este repositorio contienen el backlog inicial. El estado queda en Por hacer hasta que haya evidencia de avance. El conector disponible no permite crear el tablero de GitHub Projects; se debe vincular este repositorio desde Projects.
+El backlog HU01-HU03 está vinculado al proyecto [GitHub Projects: TP4 Organización – SGPI](https://github.com/users/AdaRin/projects/1/views/1). Las historias están cargadas como issues #1, #2 y #3, y se organizan en las columnas Todo (Por hacer), In Progress (En progreso) y Done (Listo). El estado de cada una debe actualizarse cuando exista evidencia de avance y se verifiquen sus criterios de aceptación.
 
 ## Indicadores
 
@@ -30,4 +30,4 @@ ChatGPT asistió en la lectura de consignas y antecedentes, propuesta del proces
 
 ## Privacidad
 
-Este repositorio público contiene solo documentación del TP4. Los PDF previos y otros datos personales no se publican aquí.
+El repositorio público contiene documentación del proyecto y el informe académico consolidado autorizado para su publicación. No incluye registros reales de la empresa ficticia ni datos operativos confidenciales.
