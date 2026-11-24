@@ -14,11 +14,11 @@ Documentación del Sistema de Gestión de Proyectos e Inventario de Recursos Té
 
 ## Flujo colaborativo
 
-La rama `main` conserva la versión integrada. Los cambios se preparan en ramas `docs/*` o `feat/*`, se registran con commits descriptivos y se proponen mediante Pull Request. El PR actual documenta esta primera integración. La revisión por pares y la aprobación humana deben ser realizadas por una compañera o compañero; no se dan por realizadas en este material.
+La rama `main` conserva la versión integrada. Los cambios se preparan en ramas `docs/*` o `feat/*`, se registran con commits descriptivos y se proponen mediante Pull Request. El PR #4 documentó esta primera integración y fue aprobado mediante revisión por pares antes de incorporarse a `main`.
 
-## Tablero
+## Tablero ágil
 
-Las historias HU01-HU03 deben gestionarse en GitHub Projects (o Jira), con columnas Por hacer, En progreso y Listo. Los issues de este repositorio contienen el backlog inicial. El estado queda en Por hacer hasta que haya evidencia de avance. El conector disponible no permite crear el tablero de GitHub Projects; se debe vincular este repositorio desde Projects.
+El backlog HU01-HU03 está vinculado al proyecto [GitHub Projects: TP4 Organización – SGPI](https://github.com/users/AdaRin/projects/1/views/1). Las historias están cargadas como issues #1, #2 y #3, y se organizan en las columnas Todo (Por hacer), In Progress (En progreso) y Done (Listo). El estado de cada una debe actualizarse cuando exista evidencia de avance y se verifiquen sus criterios de aceptación.
 
 ## Indicadores
 
