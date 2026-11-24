@@ -8,17 +8,19 @@ Documentación del Sistema de Gestión de Proyectos e Inventario de Recursos Té
 
 ## Archivos
 
-- `docs/proceso-bpmn.md`: participantes, pasos, decisiones y diagrama BPMN en Mermaid.
+- `docs/proceso-bpmn.md`: participantes, pasos, decisiones y diagrama del proceso.
 - `backlog.csv`: historias de usuario y criterios de aceptación iniciales.
-- `TP4_Adriana_Rincon.docx`: informe editable a incorporar luego de revisión de la alumna.
+- `TP4_Adriana_Rincon.docx`: informe editable del TP4.
 
 ## Flujo colaborativo
 
-La rama `main` conserva la versión integrada. Los cambios se preparan en ramas `docs/*` o `feat/*`, se registran con commits descriptivos y se proponen mediante Pull Request. El PR actual documenta esta primera integración. La revisión por pares y la aprobación humana deben ser realizadas por una compañera o compañero; no se dan por realizadas en este material.
+La rama `main` conserva la versión integrada. Los cambios se preparan en ramas `docs/*` o `feat/*`, se registran con commits descriptivos y se proponen mediante Pull Request. La revisión por pares y la aprobación humana deben realizarse antes de integrar los cambios.
 
-## Tablero
+## Tablero ágil
 
-Las historias HU01-HU03 deben gestionarse en GitHub Projects (o Jira), con columnas Por hacer, En progreso y Listo. Los issues de este repositorio contienen el backlog inicial. El estado queda en Por hacer hasta que haya evidencia de avance. El conector disponible no permite crear el tablero de GitHub Projects; se debe vincular este repositorio desde Projects.
+El backlog HU01-HU03 está vinculado al proyecto GitHub Projects **TP4 Organización – SGPI**. Las historias se organizan en las columnas Todo (Por hacer), In Progress (En progreso) y Done (Listo); sus estados deben actualizarse cuando exista evidencia de avance.
+
+[Ver tablero GitHub Projects](https://github.com/users/AdaRin/projects/1/views/1)
 
 ## Indicadores
 
