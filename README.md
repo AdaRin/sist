@@ -10,11 +10,11 @@ Documentación del Sistema de Gestión de Proyectos e Inventario de Recursos Té
 
 - `docs/proceso-bpmn.md`: participantes, pasos, decisiones y diagrama BPMN en Mermaid.
 - `backlog.csv`: historias de usuario y criterios de aceptación iniciales.
-- `TP4_Adriana_Rincon.docx`: informe editable a incorporar luego de revisión de la alumna.
+- `docs/TP4_Rincon_Adriana.pdf`: informe final consolidado del TPI, con TP1, TP2, TP3 y TP4.
 
 ## Flujo colaborativo
 
-La rama `main` conserva la versión integrada. Los cambios se preparan en ramas `docs/*` o `feat/*`, se registran con commits descriptivos y se proponen mediante Pull Request. El PR #4 documentó esta primera integración y fue aprobado mediante revisión por pares antes de incorporarse a `main`.
+La rama `main` conserva la versión integrada. Los cambios se preparan en ramas `docs/*` o `feat/*`, se registran con commits descriptivos y se proponen mediante Pull Request. El PR #4 documentó la primera integración y fue aprobado mediante revisión por pares antes de incorporarse a `main`.
 
 ## Tablero ágil
 
@@ -30,4 +30,4 @@ ChatGPT asistió en la lectura de consignas y antecedentes, propuesta del proces
 
 ## Privacidad
 
-Este repositorio público contiene solo documentación del TP4. Los PDF previos y otros datos personales no se publican aquí.
+El repositorio público contiene documentación del proyecto y el informe académico consolidado autorizado para su publicación. No incluye registros reales de la empresa ficticia ni datos operativos confidenciales.
